@@ -113,9 +113,9 @@ http://rec2.distv.net:80/daiana/12345/228
 http://rec2.distv.net:80/daiana/12345/229
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
 http://rec2.distv.net:80/daiana/12345/230
-####CANAISLOCAIS####
+####CANAISLOCAIS####Globo#30/01/22 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO RIO GRANDE DO SUL
-http://rec2.distv.net:80/daiana/12345/231
+http://bolos.cteam.me:80/thais/123456/893555
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
 http://rec2.distv.net:80/daiana/12345/238
 #EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
