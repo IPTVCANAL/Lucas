@@ -115,7 +115,7 @@ http://rec2.distv.net:80/daiana/12345/229
 http://rec2.distv.net:80/daiana/12345/230
 ####CANAISLOCAIS####
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO RIO GRANDE DO SUL
-http://u9in.club:80/meires/12345678/83060
+http://u9in.club:80/dileia/102030/83060
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
 http://rec2.distv.net:80/daiana/12345/238
 #EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
