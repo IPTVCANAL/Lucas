@@ -113,9 +113,9 @@ http://rec2.distv.net:80/lazinha/123456/228
 http://rec2.distv.net:80/lazinha/123456/229
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
 http://rec2.distv.net:80/lazinha/123456/230
-####CANAISLOCAIS####
+####CANAISLOCAIS####Globo 02/02/22
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO RIO GRANDE DO SUL
-http://u9in.club:80/dileia/102030/83060
+http://clienteworld.com:80/fabio/123456/83060
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
 http://rec2.distv.net:80/lazinha/123456/238
 #EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
