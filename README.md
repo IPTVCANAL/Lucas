@@ -114,7 +114,7 @@ http://rec2.distv.net:80/lazinha/123456/229
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
 http://rec2.distv.net:80/lazinha/123456/230
 ####CANAISLOCAIS####Globo 2023
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS POA" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",Globo RBS POA
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS POA" tvg-logo="floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",Globo RBS POA
 http://cms-eu-01.casap2p.online:8080/alcilene/102030/57947
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
 http://rec2.distv.net:80/lazinha/123456/238
