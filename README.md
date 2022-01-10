@@ -120,6 +120,8 @@ http://cms-eu-01.casap2p.online:8080/alcilene/102030/57947
 http://rec2.distv.net:80/lazinha/123456/238
 #EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
 http://rec2.distv.net:80/lazinha/123456/224
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="https://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REDE TV
+http://cms-eu-01.casap2p.online:8080/alcilene/102030/58204
 #
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://distv.net/icons/globonews.png" group-title="REPORTAGEM",GLOBO NEWS
 http://rec2.distv.net:80/lazinha/123456/232
