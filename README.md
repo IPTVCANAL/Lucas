@@ -113,9 +113,9 @@ http://rec2.distv.net:80/lazinha/123456/228
 http://rec2.distv.net:80/lazinha/123456/229
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
 http://rec2.distv.net:80/lazinha/123456/230
-####CANAISLOCAIS####Globo 2023
+####CANAISLOCAIS####Globo 06/02/22
 #EXTINF:-1 tvg-id="" tvg-name="Globo RBS POA" tvg-logo="floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",Globo RBS POA
-http://cms-eu-01.casap2p.online:8080/alcilene/102030/57947
+http://serverfulltop.com:80/reginaldo1/reginaldo1/471
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
 http://rec2.distv.net:80/lazinha/123456/238
 #EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
