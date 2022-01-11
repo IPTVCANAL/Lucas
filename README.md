@@ -115,7 +115,7 @@ http://rec2.distv.net:80/lazinha/123456/229
 http://rec2.distv.net:80/lazinha/123456/230
 ####CANAISLOCAIS####http://serverfulltop.com:80/get.php?username=reginaldo1&password=reginaldo1&type=m3u_plus
 #EXTINF:-1 tvg-id="" tvg-name="Globo RBS POA" tvg-logo="floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",Globo RBS POA
-http://cms-eu-01.casap2p.online:8080/tamires/102030/57947
+http://7online.xyz:8080/andre/andre/29889
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
 http://rec2.distv.net:80/lazinha/123456/238
 #EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
